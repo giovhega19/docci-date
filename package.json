@@ -1,0 +1,12 @@
+{
+  "name": "pack-date",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["date", "time", "timestamp"],
+  "author": "Giovanny Herrera",
+  "license": "MIT",
+  "description": "Es una utilidad para manejar fechas timestamp y long time"
+}
